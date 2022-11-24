@@ -1,0 +1,14 @@
+<svg width="64" height="65" viewBox="0 0 64 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect y="0.5" width="64" height="64" rx="8" fill="#F5F5F5"/>
+    <rect x="7.5" y="17" width="49" height="31" rx="1.5" fill="white" stroke="black"/>
+    <rect x="13" y="40.5" width="16" height="1" rx="0.5" fill="black"/>
+    <rect x="35" y="25.5" width="17" height="1" rx="0.5" fill="black"/>
+    <rect x="35" y="28.5" width="17" height="1" rx="0.5" fill="black"/>
+    <rect x="35" y="31.5" width="9" height="1" rx="0.5" fill="black"/>
+    <rect x="13" y="43.5" width="9" height="1" rx="0.5" fill="black"/>
+    <rect x="35.5" y="37" width="7" height="7" rx="0.5" fill="#FFD645" stroke="black"/>
+    <rect x="44.5" y="37" width="7" height="7" rx="0.5" fill="#ACC460" stroke="black"/>
+    <rect x="13.5" y="21" width="15" height="16" rx="0.5" fill="#FFF6D7" stroke="black"/>
+    <path d="M15.5 33.7258C15.5 31.1158 17.6158 29 20.2258 29H21.7742C24.3842 29 26.5 31.1158 26.5 33.7258C26.5 33.8772 26.3772 34 26.2258 34H15.7742C15.6228 34 15.5 33.8772 15.5 33.7258Z" fill="#FD9328" stroke="black"/>
+    <circle cx="21" cy="26.5" r="2.5" fill="#FDBE7E" stroke="black"/>
+</svg>

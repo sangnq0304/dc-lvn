@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    overflow-x: hidden;
+}
+
+:where(h1, h2, h3, h4, h5, h6,p,ul){
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    transition: all 0.3s ease-in-out;
+}
+
+img {
+    max-width: 100%;
+}
